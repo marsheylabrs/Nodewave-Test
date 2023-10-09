@@ -1,0 +1,23 @@
+.footer-body{
+    text-align: center;
+    margin-bottom: 7vh;
+}
+
+.footer-title{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    margin: 5vh 0;
+}
+
+.footer-address{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.socmed-icons{
+    margin-right: 2vh;
+    font-size: 3vh;
+    margin-top: 4vh;
+}

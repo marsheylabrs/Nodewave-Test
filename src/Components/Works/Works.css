@@ -1,0 +1,9 @@
+.works-slider{
+    background-color: #fff;
+    border-radius: 24px;
+    padding: 10vh 30px;
+}
+
+.works-image{
+    max-height: 60vh;
+}
